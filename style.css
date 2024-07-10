@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+	color: #254336;
+	font-family: Arial, sans-serif;
+	font-size: 22px;
+}
+main {
+	width: 50%;
+	height: 500px;
+}
